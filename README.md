@@ -1,4 +1,4 @@
-﻿# Marketing Project 2026 · Naya Italy 2027
+﻿# ESCP Marketing Project November 2026 · Naya Italy 2027
 
 Go-to-market strategy and video ad for Naya's 2027 launch in Italy. Applied group project for the ESCP Bachelor marketing course (MK21, Turin). Group leader: Nicolaï Kauss.
 

@@ -1,0 +1,60 @@
+{
+ "v": 4,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-24T09:21:52Z"
+ },
+ "title": "Naya Italy 2027 GTM",
+ "order": [
+  "cover",
+  "answer",
+  "gap",
+  "italy",
+  "sizing",
+  "competitors",
+  "chatgpt",
+  "audit",
+  "research",
+  "personas",
+  "journey",
+  "positioning",
+  "messaging",
+  "roadmap",
+  "channels",
+  "budget",
+  "kpis",
+  "video",
+  "next",
+  "close"
+ ],
+ "cover": "cover",
+ "sections": {
+  "s1": {
+   "description": "Why now: the student support gap and what makes Italy different",
+   "start": "cover"
+  },
+  "s2": {
+   "description": "Who and why: the app today, research, personas, journey and positioning",
+   "start": "audit"
+  },
+  "s3": {
+   "description": "How: roadmap, channels, budget, measurement and the video ad",
+   "start": "roadmap"
+  },
+  "s4": {
+   "description": "What we need next",
+   "start": "next"
+  }
+ },
+ "faces": {
+  "figtree": {
+   "family": "Figtree",
+   "href": "https://fonts.googleapis.com/css2?family=Figtree:wght@500..800&display=swap"
+  },
+  "inter": {
+   "family": "Inter",
+   "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..600&display=swap"
+  }
+ },
+ "designSystems": []
+}

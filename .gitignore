@@ -1,0 +1,7 @@
+﻿node_modules/
+out/
+build/
+.remotion/
+
+# course material and third-party research, kept local
+reference/
